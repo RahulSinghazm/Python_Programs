@@ -3,6 +3,6 @@ if num >= 0:
    if num == 0:
        print("Zero")
    else:
-       print("Positive number")
+       print("This is a positive number")
 else:
-   print("Negative number")
+   print("This is a negative number")
