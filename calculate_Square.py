@@ -1,2 +1,2 @@
-n = input("Pick a number, any number: ")
-print "Did you know that " + str(n) + " squared is " + str(n*n) + "?"
+n = input("Pick a Number, Any number: ")
+print "Did You Know That " + str(n) + " squared is " + str(n*n) + "?"
