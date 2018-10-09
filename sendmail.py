@@ -7,7 +7,7 @@
 #mail=smtplib.SMTP('smtp,gmail.com',587)
 #mail.ehlo()
 #mail.starttls()
-#mail.login('singh@gmail.com','050793@Rs')
+#mail.login('singh@gmail.com','Password')
 #mail.sendmail('singh1@gmail.com','singh2@gmail.com',content)
 #mail.close()
 
